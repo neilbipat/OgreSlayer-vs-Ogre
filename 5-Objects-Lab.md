@@ -1,5 +1,7 @@
 ## INSTRUCTIONS
+- fork this repo
 - create index.html and app.js files and go through the exercises below.  
+- create a pull request
 
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Objects Lab
