@@ -8,6 +8,6 @@ This was an early assignment where I was learning how to use JavaScript at Gener
 
 ### Accomplishments
 
--Able to create something Game-like
--Learned how to use Objects in JavaScript 
--Learned how to incoporate Objects as well as parts of them into functions
+- Able to create something Game-like
+- Learned how to use Objects in JavaScript 
+- Learned how to incoporate Objects as well as parts of them into functions
